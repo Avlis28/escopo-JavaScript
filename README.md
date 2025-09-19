@@ -1,2 +1,12 @@
-# escopo-JavaScript
-Estudando e entendo escopo com experimentos const, var, let e function, no documento coloco os bugs gerados e por que.
+javascritp---experimentos 
+----01-variáveis/
+var-let-const.js
+----escopo.js
+----const-objetos.js
+//
+----02-tipos-de-dados/
+----strings.js
+----numeros.js
+----booleanos.js
+//
+README.md
